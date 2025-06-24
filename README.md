@@ -32,18 +32,6 @@ cd organo
 
 2)Open index.html in your browser.
 
-## 📁 Folder Structure
-organo/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── ...assets
-└── README.md
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
