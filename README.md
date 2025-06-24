@@ -23,7 +23,7 @@ Welcome to **Organo**, a clean and modern website designed to promote organic li
 - (Add frameworks/libraries if used)
 
 
-📦 Getting Started
+## 📦 Getting Started
 
 1)Clone the repo:
 
@@ -32,7 +32,7 @@ cd organo
 
 2)Open index.html in your browser.
 
-📁 Folder Structure
+## 📁 Folder Structure
 organo/
 │
 ├── index.html
@@ -44,12 +44,12 @@ organo/
 │   └── ...assets
 └── README.md
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-👤 Author
+## 👤 Author
 GitHub: @harsh6183
 
