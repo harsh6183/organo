@@ -4,7 +4,7 @@ Welcome to **Organo**, a clean and modern website designed to promote organic li
 
 ## 🌐 Live Demo
 
-[View the Live Site]([https://your-live-site-link.com](https://harsh6183.github.io/organo/))  
+[View the Live Site](https://harsh6183.github.io/organo/))  
 *(Replace with your actual GitHub Pages or hosting link)*
 
 ## 🚀 Features
@@ -22,10 +22,14 @@ Welcome to **Organo**, a clean and modern website designed to promote organic li
 - JavaScript (Vanilla)
 - (Add frameworks/libraries if used)
 
+
 📦 Getting Started
+
 1)Clone the repo:
+
 git clone https://github.com/your-username/organo.git
 cd organo
+
 2)Open index.html in your browser.
 
 📁 Folder Structure
