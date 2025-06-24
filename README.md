@@ -4,7 +4,7 @@ Welcome to **Organo**, a clean and modern website designed to promote organic li
 
 ## 🌐 Live Demo
 
-[View the Live Site](https://harsh6183.github.io/organo/))  
+[OrGano](https://harsh6183.github.io/organo/)  
 *(Replace with your actual GitHub Pages or hosting link)*
 
 ## 🚀 Features
